@@ -1,0 +1,12 @@
+Pros :
+
+The code looks really simple
+The function names are well defined
+The message for the user is really simple and friendly
+
+Cons :
+
+There should be comment which will make it further easy for anyone to understand
+The actual output was missed somehow
+The user can input numbers other than zero to five and still get output
+
